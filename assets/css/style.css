@@ -11,16 +11,12 @@ body {
 
 .contenedor {
   background-color: rgba(206, 214, 221, 0.349);
-  width: 70%;
-  margin-top: 150px;
-  margin-left: 70px;
+  justify-content: center;
   padding: 30px;
   text-align: center;
   font-weight: bolder;
-  padding-bottom: 50px;
   text-shadow: rgb(144, 196, 25) 1px 0 10px;
   color: white;
-  position: relative;
 }
 
 .cTitulo {
